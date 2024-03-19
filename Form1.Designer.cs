@@ -216,7 +216,7 @@
             // 
             // btn_ok
             // 
-            this.btn_ok.Location = new System.Drawing.Point(673, 107);
+            this.btn_ok.Location = new System.Drawing.Point(695, 107);
             this.btn_ok.Name = "btn_ok";
             this.btn_ok.Size = new System.Drawing.Size(75, 23);
             this.btn_ok.TabIndex = 8;
@@ -238,7 +238,7 @@
             this.Controls.Add(this.label_ŹródłowaWaluta);
             this.Controls.Add(this.textBox_ŹródłowaWaluta);
             this.Name = "FormPrzelicznikWalut";
-            this.Text = "Kalkulator walut";
+            this.Text = "    ";
             this.groupBox_WalutaŻródłowa.ResumeLayout(false);
             this.groupBox_WalutaŻródłowa.PerformLayout();
             this.groupBox_WalutaDocelowa.ResumeLayout(false);
